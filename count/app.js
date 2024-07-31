@@ -23,4 +23,6 @@ function updateCountdowntime() {
 
 }
 
-setInterval(updateCountdowntime, 1000);
+// setInterval(updateCountdowntime, 1000);
+
+const SzecskaHazaJott = document.getElementById("hazajott")
